@@ -43,21 +43,3 @@ Use as abas com análises pré-configuradas.
 
 Autor
 Augusto - GitHub
-
-text
-
----
-
-### ⚡ **Dicas Profissionais:**
-- Use **`** para criar blocos de código no README.
-- Explique **para que serve cada fórmula**, não apenas o que ela faz.
-- Se possível, adicione um screenshot da planilha para ficar mais visual.
-
----
-
-### 🔁 **4. Atualize o GitHub:**
-Não esqueça de commitar as mudanças no README:
-```bash
-git add README.md
-git commit -m "Adiciona documentação das fórmulas"
-git push
