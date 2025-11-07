@@ -4,6 +4,7 @@ Trabalhos realizados e entregues na disciplina de Informática Aplicada
 
 # Atividade 1: 
 Apresentação em grupo no Canva
+
 <img width="763" height="411" alt="image" src="https://github.com/user-attachments/assets/ebd2de3c-d8c4-4389-b871-975d81b996ec" />
 
 # Atividade 2: 
