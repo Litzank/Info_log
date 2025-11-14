@@ -22,3 +22,11 @@ Power BI, aprendemos a manusear e tratar dados no Power BI.
 # Atividade 5: 
 Power BI Exportação 2025
 <img width="1320" height="743" alt="image" src="https://github.com/user-attachments/assets/11e84212-e9b9-41ee-a7c1-80e5621dcf29" />
+
+# Atividade 6:
+Gráfico de Regressão Linear - Sorvete
+<img width="639" height="670" alt="image" src="https://github.com/user-attachments/assets/b2a519ad-a9d9-46c6-84c4-8cab2c64bed2" />
+
+# Atividade 7:
+Gráfico de Regressão Linear - Salários
+<img width="993" height="782" alt="image" src="https://github.com/user-attachments/assets/b59a105b-edc7-49a3-9a56-47a6fbbd8af7" />
