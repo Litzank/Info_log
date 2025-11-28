@@ -30,3 +30,8 @@ Gráfico de Regressão Linear - Sorvete
 # Atividade 7:
 Gráfico de Regressão Linear - Salários
 <img width="993" height="782" alt="image" src="https://github.com/user-attachments/assets/b59a105b-edc7-49a3-9a56-47a6fbbd8af7" />
+
+# Atividade 8:
+PROVA
+<img <img width="1187" height="696" alt="image" src="https://github.com/user-attachments/assets/cacbc21b-6061-4715-9e3f-19e372305cbd" />
+ />
